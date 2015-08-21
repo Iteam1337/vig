@@ -10,4 +10,4 @@ Visual Guidelines for the Iteam brand
 ## Logotype
 	Our logotype is our visual core. It is a representation of our company and our primary sender. It has a unique and characteristic expression which makes us stand out in the crowd.
 
-To explore the brand, please visit [iteam1337.github.io/vig/](iteam1337.github.io/vig/)
+To explore the brand, please visit [http://iteam1337.github.io/vig/](http://iteam1337.github.io/vig/)
