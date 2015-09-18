@@ -606,13 +606,13 @@
 
 	.coloroff {
 		position: absolute;
-    	top: 30px;
+    	top: 70px;
     	z-index: -1;
 
 	}
 	.colordown {
 		position: relative;
-    	padding-bottom: 200px;
+    	padding-bottom: 250px;
 
 	}
 	.bgcolor0 {
